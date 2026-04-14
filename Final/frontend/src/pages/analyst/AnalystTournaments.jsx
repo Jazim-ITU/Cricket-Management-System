@@ -1,0 +1,1 @@
+export { AnalystTournaments as default } from './AnalystPages'

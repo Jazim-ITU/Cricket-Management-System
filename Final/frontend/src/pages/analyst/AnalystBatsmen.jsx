@@ -1,0 +1,1 @@
+export { AnalystBatsmen as default } from './AnalystPages'

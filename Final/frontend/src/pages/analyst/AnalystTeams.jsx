@@ -1,0 +1,1 @@
+export { AnalystTeams as default } from './AnalystPages'

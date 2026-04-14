@@ -1,0 +1,1 @@
+export { AnalystBowlers as default } from './AnalystPages'
