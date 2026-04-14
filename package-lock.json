@@ -1,8 +1,0 @@
-PORT=3000
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=babarazam@56
-DB_NAME=cricket_management
-JWT_SECRET=cricket_management_super_secret_jwt_key_2026_do_not_share
-JWT_EXPIRES_IN=24h
-BCRYPT_ROUNDS=12
